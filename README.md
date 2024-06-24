@@ -1,0 +1,3 @@
+#Myntra
+
+practicing js methods and functions...
